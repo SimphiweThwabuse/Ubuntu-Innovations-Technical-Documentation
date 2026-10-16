@@ -180,6 +180,7 @@ Permission Principles
 
 Command-Line Administration Guide
 The command-line administration guide is maintained in the team's GitHub repository. It demonstrates the folder and permission setup on Linux using commands such as mkdir, chown and chmod. Repository: https://github.com/SimphiweThwabuse/Ubuntu-Innovations-Technical-Documentation
+
 Software Deployment Process
 1.	Confirm that the software is approved by management.
 2.	Verify licensing and subscription requirements.
